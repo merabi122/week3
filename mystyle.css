@@ -1,0 +1,42 @@
+
+
+
+
+#satauri{
+color: #ffb703;
+font-size: 40px;
+text-align: center;
+letter-spacing: 10px;
+font-family: "BPG GE Black";
+}
+#qvesatauri{
+	color:#219ebc;
+	text-align: center;
+	font-size: 30px;
+	font-family: "BPG SansSerif UE",calibri;
+}
+.logo{
+text-align: center;
+font-size: 100px;
+color: orange;
+}
+
+.statia{
+	background: #4cc9f0;
+	width: 50%;
+	padding: 50px;
+}
+.ariclename{
+	font-family: "BPG Banner SuperSquare";
+	font-size: 30px;
+	color: #0d1f22;
+	letter-spacing: 10px;
+}
+.info{
+	text-align: justify;
+	font-size: 20Px;
+}
+.simlob{
+	color: #1a1817s;
+	font-size: 40px;
+}
